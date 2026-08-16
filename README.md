@@ -20,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0073-set-matrix-zeroes) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
@@ -109,6 +112,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
