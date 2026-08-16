@@ -8,10 +8,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0073-set-matrix-zeroes) |
@@ -46,4 +48,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
