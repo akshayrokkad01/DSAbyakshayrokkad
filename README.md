@@ -13,6 +13,7 @@
 | [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0053-maximum-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0005-longest-palindromic-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
