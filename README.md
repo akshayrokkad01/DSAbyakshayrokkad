@@ -106,6 +106,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
@@ -118,4 +119,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
