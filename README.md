@@ -54,6 +54,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
@@ -104,6 +106,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
