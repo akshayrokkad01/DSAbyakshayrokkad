@@ -11,6 +11,7 @@
 | [0011-container-with-most-water](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0152-maximum-product-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
