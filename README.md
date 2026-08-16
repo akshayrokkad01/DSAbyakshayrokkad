@@ -8,6 +8,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 ## Array
@@ -137,6 +139,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -148,6 +151,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
