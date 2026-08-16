@@ -47,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
@@ -93,4 +94,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
