@@ -9,6 +9,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -20,6 +21,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
@@ -68,6 +70,7 @@
 | [0049-group-anagrams](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
