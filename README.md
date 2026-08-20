@@ -38,6 +38,7 @@
 | [0054-spiral-matrix](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -150,6 +152,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0678-valid-parenthesis-string) |
