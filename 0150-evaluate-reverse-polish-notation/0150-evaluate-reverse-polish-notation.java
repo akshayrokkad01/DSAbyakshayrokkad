@@ -1,32 +1,38 @@
+import java.util.Stack;
+
 class Solution {
     public int evalRPN(String[] tokens) {
         Stack<Integer> stack = new Stack<>();
-        for (String t : tokens) {
-            if (!"*/+-".contains(t)) {
-                stack.push(Integer.valueOf(t));
-                continue;
+
+        for (String c : tokens) {
+
+            if (!c.equals("+") && !c.equals("-") &&
+                !c.equals("*") && !c.equals("/")) {
+                stack.push(Integer.parseInt(c));
             }
-            int num2 = stack.pop();
-            int num1 = stack.pop();
-            stack.push(calsi(t, num1,num2));
+
+            else {
+                int b = stack.pop();
+                int a = stack.pop();
+
+                if(c.equals("+")) {
+                    stack.push(a + b);
+                } 
+                else if (c.equals("-")) {
+                    stack.push(a - b);
+                } 
+                else if (c.equals("*")) {
+                    stack.push(a * b);
+                } 
+                else {
+                    stack.push(a / b);
+                }
+            }
         }
+
         return stack.pop();
     }
-
-    private int calsi(String t,int num1,int num2)
-    {
-        int res=0;
-        switch(t){
-            case"*":res=num1*num2;
-            break;
-              case"-":res=num1-num2;
-            break;
-              case"/":res=num1/num2;
-            break;
-              case"+":res=num1+num2;
-            break;
-            default: break;
-        }
-        return res;
-    }
 }
+
+
+
