@@ -6,8 +6,7 @@ class Solution {
 
         for (String c : tokens) {
 
-            if (!c.equals("+") && !c.equals("-") &&
-                !c.equals("*") && !c.equals("/")) {
+            if (!"*+-/".contains(c)) {
                 stack.push(Integer.parseInt(c));
             }
 
