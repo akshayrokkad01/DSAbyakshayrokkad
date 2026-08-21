@@ -33,6 +33,7 @@
 | [0011-container-with-most-water](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0054-spiral-matrix) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0704-binary-search) |
