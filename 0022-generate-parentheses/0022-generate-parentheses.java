@@ -7,15 +7,18 @@ class Solution {
     }
     private void backtrack(List<String> res,String current,int open,int close,int n)
     {
+        // if () so complete
         if(current.length()== 2*n)
         {
             res.add(current);
             return;
         }
+        // Add open (
         if(open<n)
         {
             backtrack(res,current+"(",open+1,close,n);
         }
+        // to add close )
         if(close<open)
         {
             backtrack(res,current+")",open,close+1,n);
