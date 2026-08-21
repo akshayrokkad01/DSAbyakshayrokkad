@@ -95,6 +95,7 @@
 | [0035-search-insert-position](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -202,4 +203,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0022-generate-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
