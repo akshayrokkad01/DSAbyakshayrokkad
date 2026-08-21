@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0152-maximum-product-subarray) |
@@ -133,6 +134,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
@@ -191,4 +194,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0232-implement-queue-using-stacks) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
