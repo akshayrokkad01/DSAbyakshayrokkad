@@ -50,6 +50,7 @@
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0875-koko-eating-bananas) |
@@ -102,6 +103,7 @@
 | [0162-find-peak-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0875-koko-eating-bananas) |
 ## Sorting
