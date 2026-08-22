@@ -51,6 +51,7 @@
 | [0496-next-greater-element-i](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
