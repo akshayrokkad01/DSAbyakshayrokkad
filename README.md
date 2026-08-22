@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0704-binary-search](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
