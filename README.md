@@ -24,6 +24,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
@@ -44,6 +45,7 @@
 | [0152-maximum-product-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
@@ -102,6 +104,7 @@
 | [0074-search-a-2d-matrix](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0540-single-element-in-a-sorted-array) |
