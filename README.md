@@ -28,6 +28,7 @@
 | [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
+| [0680-valid-palindrome-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0680-valid-palindrome-ii) |
 ## Counting
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
 | ------- |
