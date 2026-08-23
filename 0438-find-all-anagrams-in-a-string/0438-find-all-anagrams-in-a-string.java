@@ -11,6 +11,7 @@ class Solution {
       for(int i=0;i<s.length();i++)
       {
         sCount[s.charAt(i) - 'a']++;
+        
         if(i>=p.length())
         {
             sCount[s.charAt(i - p.length())- 'a']--;
