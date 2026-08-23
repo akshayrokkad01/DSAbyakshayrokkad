@@ -64,6 +64,7 @@
 | [0739-daily-temperatures](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0977-squares-of-a-sorted-array) |
+| [1695-maximum-erasure-value](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/1695-maximum-erasure-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0567-permutation-in-string) |
+| [1695-maximum-erasure-value](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/1695-maximum-erasure-value) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0567-permutation-in-string) |
+| [1695-maximum-erasure-value](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/1695-maximum-erasure-value) |
 ## Manacher
 |  |
 | ------- |
