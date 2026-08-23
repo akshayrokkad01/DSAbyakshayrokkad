@@ -57,6 +57,7 @@
 | [0238-product-of-array-except-self](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0540-single-element-in-a-sorted-array) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -132,6 +135,7 @@
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -144,6 +148,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -251,4 +256,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
