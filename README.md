@@ -28,6 +28,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0844-backspace-string-compare) |
@@ -98,6 +99,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0680-valid-palindrome-ii) |
@@ -182,6 +185,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0567-permutation-in-string) |
 ## Manacher
 |  |
 | ------- |
