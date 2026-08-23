@@ -49,6 +49,7 @@
 | [0162-find-peak-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
@@ -108,6 +110,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0540-single-element-in-a-sorted-array) |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0424-longest-repeating-character-replacement) |
 ## Manacher
 |  |
