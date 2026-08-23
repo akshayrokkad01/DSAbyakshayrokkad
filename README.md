@@ -47,6 +47,7 @@
 | [0073-set-matrix-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -93,6 +94,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
@@ -268,4 +270,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
