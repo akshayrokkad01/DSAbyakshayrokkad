@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 | [0496-next-greater-element-i](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
