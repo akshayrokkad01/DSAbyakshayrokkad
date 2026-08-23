@@ -10,11 +10,13 @@ class Solution {
                 sum+=Math.pow(n%10,2.0);
                 n=n/10;
             }
+            //if sum =1 happy
             if(sum==1)
             {
                 return true;
             }
              n=sum;
+             // check in  set
             if(usedSet.contains(n))
             {
                 return false;
