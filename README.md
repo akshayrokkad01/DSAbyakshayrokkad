@@ -29,6 +29,7 @@
 | [0202-happy-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0680-valid-palindrome-ii) |
@@ -59,6 +60,7 @@
 | [0238-product-of-array-except-self](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0496-next-greater-element-i) |
@@ -128,6 +130,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0875-koko-eating-bananas) |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -235,6 +239,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -298,4 +303,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0226-invert-binary-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
