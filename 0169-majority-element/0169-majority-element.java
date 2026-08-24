@@ -7,8 +7,7 @@ class Solution {
                 votes++; //to assign votes=1
                 majority = nums[i]; //assign new lead
             }
-
-            else if (majority == nums[i]) //if same num = ++ ,diff num = --
+           else if (majority == nums[i]) //if same num = ++ ,diff num = --
             {
                 votes++;
             } else {
