@@ -7,7 +7,7 @@ class Solution {
             pq.add(n);
             if(pq.size()>k)
             {
-                pq.remove();
+                pq.poll();
             }
         }
            return pq.peek();
