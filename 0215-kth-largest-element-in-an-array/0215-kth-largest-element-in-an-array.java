@@ -5,8 +5,4 @@ class Solution {
             pq.add(n);
             if (pq.size() > k) {
                 pq.poll();
-            }
-        }
-        return pq.peek();
-    }
-}
+            }}return pq.peek();}}
