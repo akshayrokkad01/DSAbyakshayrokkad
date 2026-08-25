@@ -22,6 +22,7 @@
 | [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0160-intersection-of-two-linked-lists) |
@@ -49,6 +50,7 @@
 | [0054-spiral-matrix](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0128-longest-consecutive-sequence) |
@@ -144,6 +146,7 @@
 | ------- |
 | [0015-3sum](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/akshayrokkad01/DSAbyakshayrokkad/tree/master/0242-valid-anagram) |
