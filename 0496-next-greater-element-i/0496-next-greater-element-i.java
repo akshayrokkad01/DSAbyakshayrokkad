@@ -1,29 +1,39 @@
+import java.util.*;
+
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        //to store element and next greatest element
-        Map<Integer, Integer> map = new HashMap<>();
+
+        // Find next greater element for every element in nums2
         Stack<Integer> stack = new Stack<>();
-        //traves from Right -->> left
+        HashMap<Integer, Integer> map = new HashMap<>();
+
         for (int i = nums2.length - 1; i >= 0; i--) {
+
             int element = nums2[i];
-            // chech if stack is empty. or not and the peek value must be greater then element
+
+            // Remove elements that cannot be the answer
             while (!stack.isEmpty() && stack.peek() <= element) {
                 stack.pop();
             }
-            if(stack.isEmpty())
-            {
-                map.put(element,-1);
-            }else{
-                map.put(element,stack.peek());
+
+            // Find next greater element
+            if (stack.isEmpty()) {
+                map.put(element, -1);
+            } else {
+                map.put(element, stack.peek());
             }
+
+            // Put current element into stack
             stack.push(element);
         }
-        // to get the NGE for nums1
-        int[] res=new int[nums1.length];
-        for(int i=0;i<nums1.length;i++)
-        {
-            res[i]=map.get(nums1[i]);
+
+        // Build answer for nums1
+        int[] result = new int[nums1.length];
+
+        for (int i = 0; i < nums1.length; i++) {
+            result[i] = map.get(nums1[i]);
         }
-return res;
+
+        return result;
     }
 }
