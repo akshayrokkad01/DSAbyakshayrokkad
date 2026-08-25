@@ -13,7 +13,7 @@ class Solution {
                 stack.push(']');
             } else if (c == '{') {
                 stack.push('}');
-            } else if (stack.isEmpty() || stack.pop() != c) {
+            } else if ( stack.isEmpty() ||stack.pop() != c) {
                 return false;
             }
         }
